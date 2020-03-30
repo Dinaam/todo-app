@@ -1,6 +1,7 @@
 # :book: Todo :bar_chart:
 Simple Todo app to learn 
-(Express.js && MongoDb && (React || Vue.js ))
+(Express.js && MongoDb && Vue.js )
 
-:construction: UNDER CONSTRUCTION :construction:
+
+
 
